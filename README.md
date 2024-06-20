@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://www.example.com/your-banner-image-url.jpg" alt="Banner" />
+</h1>
 <h1 align="center">Hi 👋, I'm Syed Faizan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhnazdieXBlOGF4YmluZGVvNTd1ZnBkZmc1dTNiZWhndWZpc2cyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
@@ -6,11 +9,7 @@
 
 - 🌱 I’m currently learning **ASP .Net Core**
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **faaiz290302@gmail.com**
-
-- ⚡ Fun fact **I am an athlete.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
